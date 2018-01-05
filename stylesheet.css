@@ -491,6 +491,13 @@ header a {
     bottom: 5.6vw;
 }
 
+.animaitonText p {
+
+    color: white;
+    margin-top: 8vw;
+
+}
+
 
 /***** MEDIA START ****/
 
@@ -527,10 +534,3 @@ header a {
 */
 
 /***** MEDIA SLUT ****/
-
-.animaitonText p {
-
-    color: white;
-    margin-top: 8vw;
-
-}
