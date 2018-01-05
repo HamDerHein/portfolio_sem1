@@ -184,13 +184,67 @@ header a {
     font-size: 3vw;
     padding: 2vw 3vw;
     position: absolute;
-    bottom: 5.6vw;
+    bottom: 8.6vw;
     width: 90%;
     text-align: center;
     left: 4vw;
     font-family: 'Lobster', cursive;
     font-weight: 400;
 }
+
+.porfolio .text {
+    color: #f2f2f2;
+    font-size: 3vw;
+    padding: 2vw 3vw;
+    position: absolute;
+    bottom: -5.4vw;
+    width: 90%;
+    text-align: center;
+    left: 4vw;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+
+.animation .text {
+    color: #f2f2f2;
+    font-size: 3vw;
+    padding: 2vw 3vw;
+    position: absolute;
+    bottom: 7.6vw;
+    width: 90%;
+    text-align: center;
+    left: 4vw;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+
+.video .text {
+    color: #f2f2f2;
+    font-size: 3vw;
+    padding: 2vw 3vw;
+    position: absolute;
+    bottom: 7.6vw;
+    width: 90%;
+    text-align: center;
+    left: 4vw;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+
+.ux .text {
+    color: #f2f2f2;
+    font-size: 3vw;
+    padding: 2vw 3vw;
+    position: absolute;
+    bottom: 8.6vw;
+    width: 90%;
+    text-align: center;
+    left: 4vw;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+
+
 
 .text2 {
     color: #f2f2f2;
@@ -201,6 +255,20 @@ header a {
     width: 80%;
     text-align: center;
     left: 12vw;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    top: 25vw;
+}
+
+.text3 {
+    color: #f2f2f2;
+    font-size: 3vw;
+    padding: 2vw 3vw;
+    position: absolute;
+    margin-top: -2vw;
+    width: 80%;
+    text-align: center;
+    left: 5.5vw;
     font-family: 'Lobster', cursive;
     font-weight: 400;
     top: 25vw;
