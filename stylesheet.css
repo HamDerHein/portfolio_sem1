@@ -184,7 +184,7 @@ header a {
     font-size: 3vw;
     padding: 2vw 3vw;
     position: absolute;
-    bottom: -5.4vw;
+    bottom: 5.6vw;
     width: 90%;
     text-align: center;
     left: 4vw;
@@ -414,13 +414,13 @@ header a {
 
 .privatSnak .text {
 
-    bottom: -9.4vw;
+    bottom: 5.6vw;
 
 }
 
 .rentegning .text {
 
-    bottom: -9vw;
+    bottom: 5.6vw;
 }
 
 
@@ -459,3 +459,10 @@ header a {
 */
 
 /***** MEDIA SLUT ****/
+
+.animaitonText p {
+
+    color: white;
+    margin-top: 8vw;
+
+}
