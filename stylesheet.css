@@ -505,6 +505,12 @@ header a {
     margin-top: 5vw;
 }
 
+.animaitonText p {
+
+    font-family: 'Roboto', sans-serif;
+
+}
+
 
 
 /***** MEDIA START ****/
@@ -528,6 +534,82 @@ header a {
         padding: 3vw 2vw;
 
     }
+
+    .ux .text {
+
+        bottom: 160.6vw;
+    }
+    .ux .prev,
+    .ux .next {
+
+        margin-top: -6vw;
+        font-size: 126px;
+    }
+
+    .animation .prev,
+    .animation .next {
+
+        font-size: 126px;
+    }
+
+    .video .prev,
+    .video .next {
+
+        font-size: 126px;
+    }
+
+    .privatSnak .text {
+
+        bottom: 91.6vw;
+    }
+
+    .animation .text {
+
+        bottom: 87.6vw;
+    }
+
+    .faerdigFort .text {
+
+        bottom: 92.6vw;
+    }
+    .animaitonText p {
+
+        width: 64vw;
+        margin-left: -9vw;
+    }
+
+    .baggrund2 {
+
+        position: relative;
+        width: 100vw;
+        height: 66.5vw;
+        background-image: url(img/baggrund3.png);
+        background-size: cover;
+        top: -18vw;
+        left: -27vw;
+        z-index: -10;
+
+    }
+
+    .html .baggrund2 {
+
+        position: relative;
+        width: 100vw;
+        height: 66.5vw;
+        background-image: url(img/baggrund3.png);
+        background-size: cover;
+        top: -3vw;
+        left: -0vw;
+
+    }
+
+
+
+}
+
+footer {
+
+    text-align: center;
 }
 
 /*
